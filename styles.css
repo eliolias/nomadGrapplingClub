@@ -1,0 +1,67 @@
+/* @import url("https://rsms.me/inter/inter-ui.css"); */
+
+* {
+  background-color: rgb(0, 0, 0);
+}
+
+body {
+  position: relative;
+
+  font-family: "Inter UI", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  display: block;
+  font-size: 80px;
+  margin: 0 0 24px 0;
+}
+
+address {
+  display: block;
+  font-style: normal;
+}
+
+a {
+  font-weight: 300;
+  font-size: 5vw;
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 15vw;
+  }
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 24px;
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.title {
+  font-weight: bolder;
+  color: rgb(209, 166, 55);
+  letter-spacing: -5px;
+  text-transform: uppercase;
+  padding: 0 16px;
+}
+
+.footer img {
+  height: 15rem;
+  width: 15rem;
+}
