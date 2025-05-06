@@ -13,9 +13,36 @@ body {
 
 h1 {
   display: block;
-  font-size: 80px;
+  font-size: 3rem;
   margin: 0 0 24px 0;
 }
+
+.topnav {
+  overflow: hidden;
+  /* background-color: #333; */
+  padding: 1vh;
+  position: relative;
+  bottom: 2vh;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1vh 3vw;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  border-radius: 10px;
+}
+
+/* .topnav a.active {
+  background-color: #636363;
+  color: white;
+} */
 
 address {
   display: block;
