@@ -61,8 +61,8 @@ h3 {
   font-weight: bold;
   font-size: 1.25rem;
   color: white;
-  padding-left: .75rem;
-  padding-right: .75rem;
+  padding-left: 7.5rem;
+  padding-right: 7.5rem;
 }
 
 h4 {
@@ -72,8 +72,8 @@ h4 {
 p {
   color: white;
   font-size: 1.2rem;
-  padding-left: 10rem;
-  padding-right: 10rem;
+  padding-left: 7.5rem;
+  padding-right: 7.5rem;
 }
 
 .logo {
@@ -98,6 +98,8 @@ p {
 
   h3 {
     font-size: 1.2rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
   }
 
   p {
