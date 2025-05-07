@@ -1,9 +1,6 @@
-/* @import url("https://rsms.me/inter/inter-ui.css"); */
-
 * {
   background-color: rgb(0, 0, 0);
 }
-
 
 .title {
   font-weight: bolder;
@@ -79,7 +76,6 @@ p {
   padding-right: 10rem;
 }
 
-
 .logo {
   height: 25vh;
   width: 25vh;
@@ -90,8 +86,6 @@ p {
   display: block;
   font-style: normal;
 } */
-
-
 
 @media (max-width: 500px) {
   .topnav a {
